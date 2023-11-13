@@ -7,4 +7,3 @@ app.get('/gadgets/', (request, response) => {
 })
 
 module.exports = app
-https://github.com/HarshithaGajendrula/Gadgets-Page.git
